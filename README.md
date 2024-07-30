@@ -7,7 +7,7 @@ Creating a landing page using HTML and CSS
 
 Choice of subject : Gaming news website
 
-Screen Resolution: 1920x1080
+Screen Resolution: 1920x1080 (still having issues with adjusting the page for other screen resolutions)
 
 
 
